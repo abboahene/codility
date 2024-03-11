@@ -1,2 +1,2 @@
 # Codility
-Learning problem solving with with codility developer training tests.
+Learning problem solving with codility developer training tests using Java.
